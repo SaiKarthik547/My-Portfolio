@@ -1,4 +1,5 @@
 Portfolio Website
+
 A modern, responsive portfolio website showcasing my skills, projects, and services as a software engineering student specializing in web and game development.
 Table of Contents
 
@@ -14,6 +15,8 @@ Contact
 
 Overview
 This portfolio website is designed to highlight my expertise in web development, game development, and UI/UX design. It features a sleek, modern design with smooth animations, responsive layouts, and interactive elements to provide an engaging user experience. The site includes sections for home, about, experience, skills, services, portfolio, and contact information.
+
+
 Features
 
 Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
@@ -42,17 +45,6 @@ Browser DevTools for debugging
 
 
 
-File Structure
-portfolio-website/
-├── index.html          # Main HTML file with all sections
-├── main.css            # Base styles, CSS variables, and global layouts
-├── components.css      # Styles for navigation, buttons, cards, and forms
-├── sections.css        # Section-specific styles (Home, About, Experience, etc.)
-├── animations.css      # Keyframe animations and animation classes
-├── main.js             # JavaScript for interactivity and animations
-├── sw.js               # Service worker for PWA features
-└── README.md           # Project documentation
-
 
 
 
@@ -72,14 +64,7 @@ Animations: Scroll through sections to trigger fade-in and slide-in animations f
 Responsive Testing: Resize the browser or use a mobile device to test responsiveness.
 PWA Features: Install the website as a progressive web app on supported browsers for offline access.
 
-Contributing
-Contributions are welcome! To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit (git commit -m "Add your feature").
-Push to the branch (git push origin feature/your-feature).
-Open a pull request with a description of your changes.
 
 Please ensure your code follows the existing style conventions and includes appropriate comments.
 License
